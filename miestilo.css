@@ -1,0 +1,49 @@
+body{
+  font-family: 'Roboto', sans-serif;
+
+}
+.jumbotron{
+  background: url("images/bg.jpeg") no-repeat top center / cover transparent;
+  height: 650px;
+}
+.menu{
+  width: 25%;
+  margin: 5%;
+}
+.title{
+  color: white;
+}
+.text, .contact, .title{
+  font-size: 12px;
+  text-align: center;
+}
+.contact{
+  text-align: left;
+}
+footer{
+  background-color: black;
+  padding: 15px;
+  border: 10px;
+  margin-top: 50px;
+}
+.form{
+  padding: 0;
+}
+hr{
+  margin: 0;
+}
+.navbar-default{
+  background: transparent;
+  border: 0;
+}
+.segundo{
+  margin-top: 115px;
+}
+.tercero{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.cuarto{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
